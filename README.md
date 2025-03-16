@@ -11,7 +11,7 @@
 - 💻 I’m currently working on **Fullstack Web Development**
 - 🌱 Currently learning **Laravel**, **JavaScript Backend**, and **React**
 - 🎯 Goal: Build scalable and user-friendly applications  
-- ⚡ Fun Fact: Code + Coffie = Perfect Combo ☕
+- ⚡ Fun Fact: Code + Coffee = Perfect Combo ☕
 
 ---
 
