@@ -1,26 +1,56 @@
-# Hi there 👋, I'm [Your Name]!
+<!-- Profil Readme -->
+<h1 align="center">Hi there, I'm Fabian 👋</h1>
 
-## 🚀 About Me
-I'm a passionate **[Your Role]** from **[Your Country]**.  
-I love building things, learning new tech, and collaborating on open-source projects.
-
-- 🌱 I’m currently learning **[Tech you're learning]**
-- 💻 Tech Stack: **[Tech 1]**, **[Tech 2]**, **[Tech 3]**
-- 📫 How to reach me: **[Your email/LinkedIn]**
-- ⚡ Fun fact: **[Optional]**
-
-## 🛠️ My Tools
-<p>
-  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php" />
-  <img src="https://img.shields.io/badge/Framework-Laravel-red?style=flat&logo=laravel" />
-  <img src="https://img.shields.io/badge/Frontend-HTML5-orange?style=flat&logo=html5" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Web+Developer;Backend+%7C+Frontend+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
-
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-### ✨ "Your favorite quote here"
+### 🚀 About Me
+- 💻 I’m currently working on **Fullstack Web Development**
+- 🌱 Currently learning **Laravel**, **JavaScript Backend**, and **React**
+- 🎯 Goal: Build scalable and user-friendly applications  
+- ⚡ Fun Fact: Code + Coffie = Perfect Combo ☕
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SukaMCDGitHub&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SukaMCDGitHub&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+### 🔗 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/fabianrizkypratama/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@fabianofficial._" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="mailto:fabian25march@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
