@@ -1,29 +1,22 @@
-<!-- Profile Readme -->
-<h1 align="center">Hi 👋, I'm Fabian</h1>
+<!-- Profil Readme -->
+<h1 align="center">Hi there, I'm Fabian 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Web+Developer;Backend+%7C+Frontend+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/SukaMCD">
-    <img src="https://komarev.com/ghpvc/?username=SukaMCD&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Web+Developer;Backend+%7C+Frontend+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ---
 
-## 🚀 About Me
-🎓 I'm a passionate **Fullstack Web Developer** from Indonesia.  
-🔭 Currently focusing on **Backend Development** (Laravel & Node.js).  
-🌱 Constantly learning **JavaScript**, **React**, and **RESTful APIs**.  
-💡 Interested in problem-solving and building scalable apps.  
-☕ Fun fact: **Code + Coffee = Endless Energy... or Endless Debugging.**
+### 🚀 About Me
+- 💻 I’m currently working on **Fullstack Web Development**
+- 🌱 Currently learning **Laravel**, **JavaScript Backend**, and **React**
+- 🎯 Goal: Build scalable and user-friendly applications  
+- ⚡ Fun Fact: Code + Coffee = Die slowly ☕
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
+### 🛠️ Tech Stack
+<p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -35,20 +28,17 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SukaMCD&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true&card_width=300" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SukaMCD&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SukaMCD&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SukaMCD&theme=tokyonight" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SukaMCD&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
 
 ---
 
-## 🔗 Connect With Me
-<p align="center">
+### 🔗 Connect With Me
+<p align="left">
   <a href="https://www.linkedin.com/in/fabianrizkypratama/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -63,9 +53,5 @@
 ---
 
 <p align="center">
-  <i>"Code is like humor. If you have to explain it, it's bad."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer"/>
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
