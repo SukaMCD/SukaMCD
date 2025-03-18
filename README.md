@@ -16,7 +16,7 @@
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -38,7 +38,7 @@
 ---
 
 ### 🔗 Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/fabianrizkypratama/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
