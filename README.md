@@ -7,11 +7,11 @@
 
 ---
 
-### 🚀 About Me
-- 💻 I’m currently working on **Fullstack Web Development & Game Development**
+###🚀 About Me
+- 💻 Currently working on **Fullstack Web Development & Game Development**
 - 🌱 Currently learning **Laravel**, **JavaScript Backend**, and **React**
-- 🎯 Goal: Build scalable and user-friendly applications  
-- ⚡ Fun Fact: I Use <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"> Btw
+- 🎯 Goal: Build scalable and user-friendly applications
+- ⚡ Fun Fact: I use ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) btw
 
 ---
 
