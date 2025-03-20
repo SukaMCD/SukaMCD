@@ -7,7 +7,7 @@
 
 ---
 
-###🚀 About Me
+### 🚀 About Me
 - 💻 Currently working on **Fullstack Web Development & Game Development**
 - 🌱 Currently learning **Laravel**, **JavaScript Backend**, and **React**
 - 🎯 Goal: Build scalable and user-friendly applications
