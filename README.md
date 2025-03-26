@@ -31,12 +31,14 @@
 ---
 
 ### 📈 GitHub Stats
-## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SukaMCD&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukaMCD&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SukaMCD&theme=dark&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukaMCD&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="48%" />
+</p>
 
 ---
 
