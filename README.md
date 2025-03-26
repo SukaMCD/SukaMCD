@@ -35,7 +35,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SukaMCD&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukaMCD&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="48%" />
-  <img src="https://visitcount.itsvg.in/api?id=SukaMCD&icon=0&color=0" alt="Profile Views" />
 </p>
 
 
