@@ -53,7 +53,7 @@
 ---
 
 ### 💰 You Can Help Me By Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Fabian-Rizky-Pratama)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sukamcd?country.x=ID&locale.x=id_ID)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/SukaMCD) 
 
 ---
