@@ -24,12 +24,12 @@
 ---
 
 ## 🛠 Tech Stack
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,javascript,react,mysql,html,css,go,godot,cs,unity,npm,apache,figma,git" />
+    <img src="https://skillicons.dev/icons?i=bash,bootstrap,bun,cs,css,elysia,figma,git,go,godot,html,javascript,laravel,mysql,npm,php,powershell,prisma,py,react,ts,unity,wordpress" />
   </a>
 </p>
+
 
 
 ---
