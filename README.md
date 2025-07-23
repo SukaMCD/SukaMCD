@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 💻 Currently working on **Fullstack Web & Game Development**
-- 🌱 Currently learning **Laravel**, **JavaScript Backend**, and **React**
+- 🌱 Currently learning **ElysiaJS**, **JavaScript Backend**, and **React**
 - 🎯 Goal: Build scalable and user-friendly applications
 - ⚡ Fun Fact: I USE ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) BTW
 
