@@ -8,8 +8,8 @@
 ---
 
 ### 🚀 About Me
-- 💻 Currently working on **Fullstack Web & Game Development**
-- 🌱 Currently learning **ElysiaJS**, **JavaScript Backend**, and **React**
+- 💻 Currently working on **BackEnd Developer**
+- 🌱 Currently learning **Laravel**, **ElysiaJS**, and **JavaScript BackEnd**
 - 🎯 Goal: Build scalable and user-friendly applications
 - ⚡ Fun Fact: I USE ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) BTW
 
