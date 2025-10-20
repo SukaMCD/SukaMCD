@@ -26,7 +26,7 @@
 ## 🛠 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,bootstrap,bun,cs,css,elysia,figma,git,go,godot,html,javascript,laravel,mysql,npm,php,postgres,powershell,prisma,py,react,ts,unity,wordpress" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,bun,css,figma,git,go,godot,html,javascript,laravel,mysql,php,postgres,powershell,wordpress" />
   </a>
 </p>
 
