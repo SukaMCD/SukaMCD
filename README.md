@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Fabian 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Developer;Backend+%7C+Frontend+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=BackEnd+Development+Student;Backend+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ---
