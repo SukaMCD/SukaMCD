@@ -34,7 +34,7 @@
 
 ---
 
-### 📈 GitHub Stats
+<!-- ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SukaMCD&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" width="38%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukaMCD&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="30%" />
@@ -42,11 +42,11 @@
 
 ---
 
-<!-- ### 💰 You Can Help Me By Donating
+### 💰 You Can Help Me By Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sukamcd?country.x=ID&locale.x=id_ID)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/SukaMCD) -->
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/SukaMCD)
 
----
+--- -->
 
 <p align="center">
   <i>"The World Is Ending All Over Again"</i>
