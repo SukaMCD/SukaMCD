@@ -7,15 +7,15 @@
 
 ---
 
-### 🚀 About Me
-- 💻 Currently working on **BackEnd Developer**
-- 🌱 Currently learning **Laravel**, **ElysiaJS**, and **JavaScript BackEnd**
+### About Me
+- 💻 Currently working on **BackEnd Developer Student**
+- 🌱 Currently learning **Laravel**, **ElysiaJS**, and **JavaScript**
 - 🎯 Goal: Build scalable and user-friendly applications
-- ⚡ Fun Fact: I USE ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) BTW
+<!-- - ⚡ Fun Fact: I USE ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) BTW -->
 
 ---
 
-### 🔗 Connect With Me
+### Connect With Me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/815473346741010453)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fabianofficial._)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FabianRizkyPratama)
@@ -42,12 +42,12 @@
 
 ---
 
-### 💰 You Can Help Me By Donating
+<!-- ### 💰 You Can Help Me By Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sukamcd?country.x=ID&locale.x=id_ID)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/SukaMCD) 
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/SukaMCD) -->
 
 ---
 
 <p align="center">
-  <i>"Abandon All Hope, Ye Who Enter Here."</i>
+  <i>"The World Is Ending All Over Again"</i>
 </p>
