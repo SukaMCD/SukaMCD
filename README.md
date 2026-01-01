@@ -8,7 +8,7 @@
 ---
 
 ### About Me
-- 💻 Currently working on **BackEnd Developer Student**
+- 💻 Currently working on **BackEnd Development Student**
 - 🌱 Currently learning **Laravel**, **ElysiaJS**, and **JavaScript**
 - 🎯 Goal: Build scalable and user-friendly applications
 <!-- - ⚡ Fun Fact: I USE ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) BTW -->
