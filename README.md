@@ -37,6 +37,15 @@ I am a backend development student focused on building scalable and reliable ser
 
 ---
 
+### Featured Project Showcase
+
+<div align="center">
+  <!-- Ganti link img dibawah dengan URL GIF/Banner kamu (resolusi rekomendasi 1200x350px) -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2pncDE1eno2amxkbHl1MnFqdWlsdDE5c3VxazFxM3hqZHdodDNvNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/I69IQ10Vi9aAWaOkYn/giphy.gif" width="100%" alt="Featured Banner" style="border-radius: 10px;" />
+</div>
+
+---
+
 ### GitHub Stats
 
 <div align="center">
