@@ -2,8 +2,10 @@
 
 <!-- Wave Top -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=180&section=header&text=Hi%20there%2C%20I%27m%20Fabian&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Development%20Student%20%7C%20Always%20Learning&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,12&height=120&section=header&animation=twinkling" width="100%"/>
 </div>
+
+<h1 align="center">Hi there, I'm Fabian 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=BackEnd+Development+Student;Backend+Enthusiast;Always+Learning+New+Things;Laravel+%7C+ElysiaJS+%7C+Go&center=true&width=500&height=50&color=1F6FEB&vCenter=true&pause=1000&size=22">
@@ -28,7 +30,7 @@ I am a backend development student focused on building scalable and reliable ser
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SukaMCD&theme=tokyonight&hide_border=true" width="70%" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SukaMCD&theme=tokyonight&hide_border=true&background=0D1117&stroke=1F6FEB&ring=1F6FEB&fire=FF6B6B&currStreakNum=ffffff&sideNums=1F6FEB&currStreakLabel=1F6FEB&sideLabels=888888&dates=888888" width="70%" alt="Streak Stats"/>
 </div>
 
 <br>
@@ -91,11 +93,11 @@ I am a backend development student focused on building scalable and reliable ser
   </picture>
 </div>
 
-<!-- Wave Bottom -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=120&section=footer&animation=twinkling" width="100%"/>
-</div>
-
 <p align="center">
   <i>"The World Is Ending All Over Again"</i>
 </p>
+
+<!-- Wave Bottom -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,12&height=120&section=footer&animation=twinkling" width="100%"/>
+</div>
