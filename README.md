@@ -97,11 +97,11 @@ I am a backend development student focused on building scalable and reliable ser
   </picture>
 </div>
 
+<p align="center">
+  <i>"The World Is Ending All Over Again"</i>
+</p>
+
 <!-- Wave Bottom -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
-
-<p align="center">
-  <i>"The World Is Ending All Over Again"</i>
-</p>
