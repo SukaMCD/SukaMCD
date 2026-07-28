@@ -33,17 +33,13 @@ I am a backend development student focused on building scalable and reliable ser
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukaMCD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F6FEB&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
 </div>
 
----
-
-### Contribution Streaks & Stats
+<br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SukaMCD&theme=tokyonight&hide_border=true&background=0D1117&stroke=1F6FEB&ring=1F6FEB&fire=FF6B6B&currStreakNum=ffffff&sideNums=1F6FEB&currStreakLabel=1F6FEB&sideLabels=888888&dates=888888" width="70%" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=SukaMCD&theme=tokyonight&hide_border=true&background=0D1117&stroke=1F6FEB&ring=1F6FEB&fire=FF6B6B&currStreakNum=ffffff&sideNums=1F6FEB&currStreakLabel=1F6FEB&sideLabels=888888&dates=888888" width="70%" alt="Streak Stats"/>
 </div>
 
----
-
-### Commit History Graph
+<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SukaMCD&bg_color=0D1117&color=1F6FEB&line=1F6FEB&point=FF6B6B&area=true&area_color=1F6FEB&hide_border=true&custom_title=Fabian%27s%20Contribution%20Graph&radius=8" width="95%" alt="Contribution Graph"/>
@@ -97,11 +93,11 @@ I am a backend development student focused on building scalable and reliable ser
   </picture>
 </div>
 
-<p align="center">
-  <i>"The World Is Ending All Over Again"</i>
-</p>
-
 <!-- Wave Bottom -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
+
+<p align="center">
+  <i>"The World Is Ending All Over Again"</i>
+</p>
