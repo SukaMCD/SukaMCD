@@ -2,7 +2,7 @@
 
 <!-- Wave Top -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A2540,1F6FEB,58A6FF&height=120&section=header&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:00D4FF&height=120&section=header&animation=twinkling" width="100%"/>
 </div>
 
 <h1 align="center">Hi there, I'm Fabian 👋</h1>
@@ -27,26 +27,6 @@ I am a backend development student focused on building scalable and reliable ser
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SukaMCD&theme=tokyonight&hide_border=true&background=0D1117&stroke=1F6FEB&ring=1F6FEB&fire=FF6B6B&currStreakNum=ffffff&sideNums=1F6FEB&currStreakLabel=1F6FEB&sideLabels=888888&dates=888888" width="70%" alt="Streak Stats"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SukaMCD&theme=tokyonight" height="160" alt="Stats Card"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SukaMCD&bg_color=0D1117&color=1F6FEB&line=1F6FEB&point=FF6B6B&area=true&area_color=1F6FEB&hide_border=true&custom_title=Fabian%27s%20Contribution%20Graph&radius=8" width="95%" alt="Contribution Graph"/>
-</div>
-
----
-
 ### Tech Stack
 
 <div align="center">
@@ -57,7 +37,21 @@ I am a backend development student focused on building scalable and reliable ser
 
 ---
 
-### Connect With Me
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SukaMCD&bg_color=0D1117&color=1F6FEB&line=1F6FEB&point=FF6B6B&area=true&area_color=1F6FEB&hide_border=true&custom_title=Fabian%27s%20Contribution%20Graph&radius=8" width="95%" alt="Contribution Graph"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SukaMCD&theme=tokyonight&hide_border=true&background=0D1117&stroke=1F6FEB&ring=1F6FEB&fire=FF6B6B&currStreakNum=ffffff&sideNums=1F6FEB&currStreakLabel=1F6FEB&sideLabels=888888&dates=888888" width="70%" alt="Streak Stats"/>
+</div>
+
+---
+
+### Connect & Support
 
 <div align="center">
 
@@ -65,15 +59,7 @@ I am a backend development student focused on building scalable and reliable ser
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fabianofficial._)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/FabianRizkyPratama)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabian25march@gmail.com)
-
-</div>
-
----
-
-### Support Me
-
-<div align="center">
-
+<br>
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sukamcd?country.x=ID&locale.x=id_ID)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/SukaMCD)
 
@@ -97,5 +83,5 @@ I am a backend development student focused on building scalable and reliable ser
 
 <!-- Wave Bottom -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A2540,1F6FEB,58A6FF&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:00D4FF&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
