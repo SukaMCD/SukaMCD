@@ -28,13 +28,13 @@ I am a backend development student focused on building scalable and reliable ser
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SukaMCD&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=SukaMCD&theme=tokyonight&hide_border=true&background=0D1117&stroke=1F6FEB&ring=1F6FEB&fire=FF6B6B&currStreakNum=ffffff&sideNums=1F6FEB&currStreakLabel=1F6FEB&sideLabels=888888&dates=888888" width="70%" alt="Streak Stats"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SukaMCD&theme=tokyonight&hide_border=true&background=0D1117&stroke=1F6FEB&ring=1F6FEB&fire=FF6B6B&currStreakNum=ffffff&sideNums=1F6FEB&currStreakLabel=1F6FEB&sideLabels=888888&dates=888888" width="70%" alt="Streak Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SukaMCD&theme=tokyonight" height="160" alt="Stats Card"/>
 </div>
 
 <br>
