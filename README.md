@@ -2,7 +2,7 @@
 
 <!-- Wave Top -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,12&height=120&section=header&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A2540,1F6FEB,58A6FF&height=120&section=header&animation=twinkling" width="100%"/>
 </div>
 
 <h1 align="center">Hi there, I'm Fabian 👋</h1>
@@ -99,5 +99,5 @@ I am a backend development student focused on building scalable and reliable ser
 
 <!-- Wave Bottom -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,12&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A2540,1F6FEB,58A6FF&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
