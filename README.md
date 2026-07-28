@@ -28,7 +28,7 @@ I am a backend development student focused on building scalable and reliable ser
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SukaMCD&theme=tokyonight&hide_border=true&background=0D1117&stroke=1F6FEB&ring=1F6FEB&fire=FF6B6B&currStreakNum=ffffff&sideNums=1F6FEB&currStreakLabel=1F6FEB&sideLabels=888888&dates=888888" width="70%" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=SukaMCD&theme=tokyonight&hide_border=true" width="70%" alt="Streak Stats"/>
 </div>
 
 <br>
