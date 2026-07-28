@@ -53,8 +53,6 @@ I am a backend development student focused on building scalable and reliable ser
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,bootstrap,bun,css,dart,figma,firebase,flutter,gcp,git,github,go,godot,html,javascript,laravel,mysql,npm,php,postgres,powershell,wordpress&perline=11" />
   </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 4"/>
 </div>
 
 ---
