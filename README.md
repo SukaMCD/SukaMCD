@@ -28,9 +28,7 @@ I am a backend development student focused on building scalable and reliable ser
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SukaMCD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=1F6FEB&text_color=ffffff&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukaMCD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F6FEB&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SukaMCD&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies"/>
 </div>
 
 <br>
