@@ -37,14 +37,6 @@ I am a backend development student focused on building scalable and reliable ser
 
 ---
 
-### Featured Project Showcase
-
-<div align="center">
-  <img src="assets/banner.png" width="100%" alt="Featured Banner" style="border-radius: 10px;" />
-</div>
-
----
-
 ### GitHub Stats
 
 <div align="center">
