@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Header Banner (Same width as footer) -->
-  <img src="assets/hiura.jpg" width="100%" alt="Fabian Rizky Pratama" />
+  <!-- Header Banner (Panoramic width matching footer) -->
+  <img src="assets/hiura-banner.jpg" width="100%" alt="Fabian Rizky Pratama" />
 
   <h1>Fabian Rizky Pratama</h1>
 
@@ -61,7 +61,7 @@
 [![Email](https://img.shields.io/badge/Email-sukamcdev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukamcdev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FabianRizkyPratama-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/FabianRizkyPratama)
 [![Discord](https://img.shields.io/badge/Discord-SukaMCD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/815473346741010453)
-[![Instagram](https://img.shields.io/badge/Instagram-%40fabianofficial.__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fabianofficial._)
+[![Instagram](https://img.shields.io/badge/Instagram-%40sukamcd.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sukamcd.dev)
 
 <br/>
 
