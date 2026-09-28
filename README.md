@@ -1,19 +1,19 @@
 <div align="center">
 
-  <!-- Header Avatar from PortofolioV2 -->
-  <img src="assets/hiura.jpg" width="130" height="130" style="border-radius: 50%; border: 3px solid #1c1c21;" alt="Fabian Rizky Pratama" />
+  <!-- Header Banner (Same width as footer) -->
+  <img src="assets/hiura.jpg" width="100%" alt="Fabian Rizky Pratama" />
 
   <h1>Fabian Rizky Pratama</h1>
 
   <!-- Typing Subtitle -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Architect+%26+API+Craftsman;Laravel+11+%7C+PostgreSQL+%7C+Go;Arch+Linux+Workstation+%5Bx86_64%5D;Deterministic+Execution+Over+Guesswork&center=true&width=550&height=36&color=0284C7&vCenter=true&pause=1200&size=18&font=JetBrains+Mono" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Development+Student;Backend+Architect+%26+API+Craftsman;Laravel+11+%7C+PostgreSQL+%7C+Go;Deterministic+Execution+Over+Guesswork&center=true&width=550&height=36&color=0284C7&vCenter=true&pause=1200&size=18&font=JetBrains+Mono" alt="Typing SVG" />
   </p>
 
   <!-- Status Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/ARCH%20LINUX-x86__64-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
-    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-0284C7?style=flat-square&logo=linux&logoColor=white" alt="Operational" />
+    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-0284C7?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/ROLE-BACKEND%20DEV-1C1C21?style=flat-square" alt="Role" />
     <img src="https://img.shields.io/badge/DEV-ISTANA%20KOMPUTER-1C1C21?style=flat-square" alt="Istana Komputer" />
     <img src="https://komarev.com/ghpvc/?username=SukaMCD&label=PROFILE%20VIEWS&color=1C1C21&style=flat-square" alt="Views" />
   </p>
@@ -22,27 +22,27 @@
 
 ---
 
-### ⚡ About Me
+### About Me
 
-- 💻 **Focus:** Backend Architecture, High-Performance RESTful APIs & Data Systems.
-- 🛠️ **Core Arsenal:** Laravel 11, PHP 8+, PostgreSQL, MySQL, Go, Bun.
-- 🎓 **Education & Work:** Software Engineering student at **SMK Budi Luhur** & Developer at **Istana Komputer · PT ISKOM SARANA NUSANTARA**.
-- 🐧 **Environment:** Arch Linux x86_64 // Neovim.
-- 📍 **Location:** Jakarta, Indonesia.
+- **Currently studying:** Backend Development & Software Engineering
+- **Focus:** Backend Architecture, High-Performance RESTful APIs & Data Systems
+- **Learning & Core Stack:** Laravel, PostgreSQL, Go, Flutter, ElysiaJS
+- **Affiliation:** Student at SMK Budi Luhur & Developer at Istana Komputer (PT ISKOM SARANA NUSANTARA)
+- **Location:** Jakarta, Indonesia
 
 ---
 
-### 🛠️ Tech Arsenal
+### Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,laravel,php,postgres,mysql,go,bun,ts,react,tailwind,flutter,godot,docker,git,figma&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=arch,bootstrap,bun,css,dart,figma,firebase,flutter,gcp,git,github,go,godot,html,javascript,laravel,mysql,npm,php,postgres,powershell,wordpress&perline=11" alt="Tech Stack" />
   </a>
 </div>
 
 ---
 
-### 📊 Telemetry & Activity
+### GitHub Telemetry
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SukaMCD&bg_color=1C1C21&color=0284C7&line=0284C7&point=E2DFD2&area=true&area_color=0284C720&hide_border=true&custom_title=Fabian's%20Activity%20Graph&radius=8" width="95%" alt="Activity Graph" />
@@ -54,7 +54,7 @@
 
 ---
 
-### 🌐 Connect & Dispatch
+### Connect & Support
 
 <div align="center">
 
@@ -72,7 +72,7 @@
 
 ---
 
-### 🐍 Contribution Graph
+### Contribution Snake
 
 <div align="center">
   <picture>
@@ -83,7 +83,8 @@
 
   <br/><br/>
 
-  <!-- Brutalist Terminal Footer -->
-  <img src="assets/footer.svg" width="100%" alt="Terminal Footer" />
+  <!-- Clickable Terminal Footer directing to sukamcd.tech -->
+  <a href="https://sukamcd.tech" target="_blank" rel="noreferrer">
+    <img src="assets/footer.svg" width="100%" alt="Terminal Footer" />
+  </a>
 </div>
-
