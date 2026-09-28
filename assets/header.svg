@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="100%" height="100%">
+  <defs>
+    <!-- Dot Grid Pattern -->
+    <pattern id="dot-grid" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#1C1C21" fill-opacity="0.12" />
+    </pattern>
+
+    <!-- Scanline Gradient -->
+    <linearGradient id="scanline" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284C7" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#1C1C21" stop-opacity="0.0" />
+    </linearGradient>
+
+    <!-- Shadow filter -->
+    <filter id="brutalist-shadow" x="0" y="0" width="120%" height="120%">
+      <feDropShadow dx="5" dy="5" stdDeviation="0" flood-color="#1C1C21" flood-opacity="1" />
+    </filter>
+  </defs>
+
+  <style>
+    .font-sans { font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .font-mono { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
+    .title-bold { font-weight: 900; letter-spacing: -0.04em; }
+    .label-mono { font-weight: 700; letter-spacing: 0.12em; }
+    .pulsing-dot { animation: pulse 2s infinite ease-in-out; }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.3; transform: scale(0.8); }
+    }
+  </style>
+
+  <!-- Canvas Background with Brutalist Border & Shadow -->
+  <!-- Shadow offset container -->
+  <rect x="14" y="14" width="872" height="332" fill="#1C1C21" rx="0" />
+  <!-- Main Parchment Card -->
+  <rect x="8" y="8" width="872" height="332" fill="#E2DFD2" stroke="#1C1C21" stroke-width="3.5" rx="0" />
+  
+  <!-- Dot Grid Fill -->
+  <rect x="10" y="10" width="868" height="328" fill="url(#dot-grid)" />
+
+  <!-- Top Folder Tab (PortofolioV2 signature tab) -->
+  <path d="M 32 8 L 32 0 L 195 0 L 210 8 Z" fill="#1C1C21" />
+  <g transform="translate(42, 6)">
+    <!-- Tab Status LED -->
+    <circle cx="4" cy="-1" r="3" fill="#00FF66" />
+    <!-- Tab Label -->
+    <text x="14" y="0" fill="#E2DFD2" class="font-mono label-mono" font-size="9.5">DOSSIER ARCHIVE // SEC_01</text>
+  </g>
+
+  <!-- Top Metadata Bar -->
+  <g transform="translate(32, 42)">
+    <!-- Badge: System Mode -->
+    <rect x="0" y="0" width="138" height="24" fill="#1C1C21" />
+    <text x="10" y="16" fill="#E2DFD2" class="font-mono label-mono" font-size="10.5">ARCH LINUX / x86_64</text>
+
+    <!-- Badge: Terminal -->
+    <rect x="146" y="0" width="70" height="24" fill="transparent" stroke="#1C1C21" stroke-width="1.8" />
+    <text x="162" y="16" fill="#1C1C21" class="font-mono label-mono" font-size="10.5">TTY1</text>
+
+    <!-- Badge: Status -->
+    <rect x="224" y="0" width="108" height="24" fill="transparent" stroke="#1C1C21" stroke-width="1.8" />
+    <circle cx="236" cy="12" r="3.5" fill="#0284C7" />
+    <text x="246" y="16" fill="#1C1C21" class="font-mono label-mono" font-size="10.5">OPERATIONAL</text>
+
+    <!-- Right Side: Station Telemetry -->
+    <text x="820" y="16" text-anchor="end" fill="#58554F" class="font-mono" font-size="11" letter-spacing="0.08em">
+      LOC: JAKARTA, ID [WIB · UTC+7]
+    </text>
+  </g>
+
+  <!-- Horizontal Divider Line -->
+  <line x1="32" y1="78" x2="856" y2="78" stroke="#1C1C21" stroke-width="1.5" stroke-opacity="0.25" stroke-dasharray="4 2" />
+
+  <!-- Main Headline Typography -->
+  <g transform="translate(32, 118)">
+    <text x="0" y="0" fill="#58554F" class="font-mono label-mono" font-size="11">PERSONNEL // IDENTITY SPECIFICATION</text>
+    
+    <text x="0" y="38" fill="#1C1C21" class="font-sans title-bold" font-size="34">
+      FABIAN RIZKY PRATAMA
+    </text>
+
+    <text x="0" y="80" fill="#1C1C21" class="font-sans title-bold" font-size="29">
+      ARCHITECTING ROBUST SYSTEMS
+    </text>
+
+    <text x="0" y="114" fill="#58554F" class="font-sans" font-weight="300" font-style="italic" font-size="25">
+      &amp; CRAFTING DIGITAL DEPTH
+    </text>
+  </g>
+
+  <!-- Right Visual Accent: Arch Silhouette & Blueprint Stamp -->
+  <g transform="translate(680, 105)">
+    <!-- Stamp Box -->
+    <rect x="0" y="0" width="176" height="135" fill="none" stroke="#1C1C21" stroke-width="2.5" />
+    <rect x="4" y="4" width="168" height="127" fill="#1C1C21" fill-opacity="0.03" />
+    
+    <!-- Arch Linux Logo Graphic -->
+    <g transform="translate(48, 12) scale(0.08)" fill="#1C1C21">
+      <path d="M499.7 101.4C443.2 245.9 397.6 363.3 358.3 464.7c33.3 36.1 76.5 73.1 133.7 100.9-46.7-18.4-82.7-41.2-111.4-66.2-46.5 119.5-104.9 269.4-230.9 590.2 189.6-109.9 332.9-166.7 448.9-166.7 106.8 0 240 50.8 418.5 156.4-53.7-137.9-97.7-251.2-136.6-351.4 34.3-33.1 74.3-64.8 126.1-88.7-43.1 14.8-76.4 33.3-103.3 54.4C634.3 518 574.9 332.8 499.7 101.4z"/>
+    </g>
+
+    <line x1="8" y1="84" x2="168" y2="84" stroke="#1C1C21" stroke-width="1.2" stroke-opacity="0.3" />
+    <text x="88" y="102" text-anchor="middle" fill="#1C1C21" class="font-mono label-mono" font-size="10">ARCH LINUX</text>
+    <text x="88" y="118" text-anchor="middle" fill="#58554F" class="font-mono" font-size="8.5">DEV WORKSTATION</text>
+  </g>
+
+  <!-- Bottom Terminal Status Bar -->
+  <g transform="translate(32, 290)">
+    <rect x="0" y="0" width="824" height="34" fill="#1C1C21" />
+    <text x="14" y="21" fill="#00FF66" class="font-mono" font-weight="700" font-size="11">➜</text>
+    <text x="32" y="21" fill="#E2DFD2" class="font-mono" font-size="11">fabian@archlinux:~$</text>
+    <text x="180" y="21" fill="#0284C7" class="font-mono" font-weight="600" font-size="11">./system_dossier.sh --target=backend --precision=sub-second</text>
+
+    <!-- Right status chips -->
+    <rect x="734" y="7" width="76" height="20" fill="#E2DFD2" />
+    <text x="772" y="21" text-anchor="middle" fill="#1C1C21" class="font-mono label-mono" font-size="9">PROD READY</text>
+  </g>
+</svg>

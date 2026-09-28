@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130" width="100%" height="100%">
+  <defs>
+    <pattern id="footer-dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#1C1C21" fill-opacity="0.1" />
+    </pattern>
+  </defs>
+
+  <style>
+    .font-sans { font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif; }
+    .font-mono { font-family: 'JetBrains Mono', 'Courier New', monospace; }
+  </style>
+
+  <!-- Brutalist Shadow Container -->
+  <rect x="12" y="12" width="876" height="106" fill="#1C1C21" />
+  <!-- Main Card -->
+  <rect x="8" y="8" width="876" height="106" fill="#E2DFD2" stroke="#1C1C21" stroke-width="3" />
+  <rect x="10" y="10" width="872" height="102" fill="url(#footer-dots)" />
+
+  <!-- Top Tab -->
+  <path d="M 32 8 L 32 0 L 180 0 L 192 8 Z" fill="#1C1C21" />
+  <text x="44" y="6" fill="#E2DFD2" class="font-mono" font-size="9" font-weight="700" letter-spacing="0.12em">SYS_TERMINAL // EOF</text>
+
+  <!-- Content Line 1: Terminal Quote -->
+  <g transform="translate(32, 48)">
+    <text x="0" y="0" fill="#00FF66" class="font-mono" font-size="12" font-weight="700">➜</text>
+    <text x="18" y="0" fill="#1C1C21" class="font-mono" font-size="12" font-weight="600">fabian@archlinux:~$</text>
+    <text x="182" y="0" fill="#0284C7" class="font-mono" font-size="12">cat /proc/mindset</text>
+    
+    <text x="18" y="24" fill="#1C1C21" class="font-sans" font-size="15" font-weight="700" font-style="italic">
+      "The World Is Ending All Over Again"
+    </text>
+
+    <!-- Right Side Branding -->
+    <text x="836" y="12" text-anchor="end" fill="#58554F" class="font-mono" font-size="10.5" letter-spacing="0.1em">
+      FABIAN RIZKY PRATAMA © 2026 // ALL RIGHTS RESERVED
+    </text>
+  </g>
+
+  <!-- Bottom Strip -->
+  <g transform="translate(32, 92)">
+    <line x1="0" y1="0" x2="836" y2="0" stroke="#1C1C21" stroke-width="1.2" stroke-dasharray="3 2" />
+    <text x="0" y="14" fill="#58554F" class="font-mono" font-size="9" letter-spacing="0.12em">
+      TELEMETRY STATUS: DISPATCHED · HOST: ARCH_LINUX_X86_64 · LATENCY: &lt;100MS
+    </text>
+    <text x="836" y="14" text-anchor="end" fill="#1C1C21" class="font-mono" font-size="9" font-weight="700" letter-spacing="0.14em">
+      END OF TRANSMISSION ■
+    </text>
+  </g>
+</svg>
