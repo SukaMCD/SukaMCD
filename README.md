@@ -12,10 +12,10 @@
 
   <!-- Status Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-0284C7?style=flat-square" alt="Status" />
-    <img src="https://img.shields.io/badge/ROLE-BACKEND%20DEV-1C1C21?style=flat-square" alt="Role" />
-    <img src="https://img.shields.io/badge/DEV-ISTANA%20KOMPUTER-1C1C21?style=flat-square" alt="Istana Komputer" />
-    <img src="https://komarev.com/ghpvc/?username=SukaMCD&label=PROFILE%20VIEWS&color=1C1C21&style=flat-square" alt="Views" />
+    <img src="https://img.shields.io/badge/Status-Operational-10B981?style=flat&logo=statuspage&logoColor=white&labelColor=161B22" alt="Status" />
+    <img src="https://img.shields.io/badge/Role-Backend%20Engineer-0284C7?style=flat&logo=terminal&logoColor=white&labelColor=161B22" alt="Role" />
+    <img src="https://img.shields.io/badge/Dev-Istana%20Komputer-6366F1?style=flat&logo=buffer&logoColor=white&labelColor=161B22" alt="Istana Komputer" />
+    <img src="https://komarev.com/ghpvc/?username=SukaMCD&label=Profile%20Views&color=0284C7&style=flat" alt="Views" />
   </p>
 
 </div>
@@ -36,7 +36,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,bootstrap,bun,css,dart,figma,firebase,flutter,gcp,git,github,go,godot,html,javascript,laravel,mysql,npm,php,postgres,powershell,wordpress&perline=11" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=arch,astro,bootstrap,bun,cloudflare,css,dart,figma,firebase,flutter,gcp,git,github,go,godot,html,javascript,laravel,mysql,npm,php,postgres,powershell,tailwindcss,typescript,wordpress&perline=13" alt="Tech Stack" />
   </a>
 </div>
 
