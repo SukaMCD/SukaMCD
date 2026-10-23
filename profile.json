@@ -3,21 +3,25 @@
   "login": "SukaMCD",
   "seed": "#4F6868",
   "seedFromAvatar": true,
-  "scheme": "tonalSpot",
+  "scheme": "monochrome",
   "motion": true,
   "iconFill": true,
   "order": [
     "hero",
     "socials",
-    "about",
-    "stack",
     "projects",
-    "stats",
-    "streak",
+    "stack",
     "wave",
-    "buttons"
+    "buttons",
+    "about",
+    "stats",
+    "streak"
   ],
-  "hidden": [],
+  "hidden": [
+    "about",
+    "stats",
+    "streak"
+  ],
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
