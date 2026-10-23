@@ -1,0 +1,242 @@
+{
+  "version": 1,
+  "login": "SukaMCD",
+  "seed": "#4F6868",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "",
+    "subtitle": "Backend Development Student",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Jakarta"
+      },
+      {
+        "icon": "code",
+        "label": "TypeScript · PHP"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Backend Development & Software Engineering"
+      },
+      {
+        "icon": "code",
+        "label": "Backend Architecture, High-Performance RESTful APIs & Data Systems"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Languages",
+        "items": [
+          {
+            "icon": "brand:go",
+            "label": "Go"
+          },
+          {
+            "icon": "brand:php",
+            "label": "PHP"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:dart",
+            "label": "Dart"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "HTML5"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS3"
+          }
+        ]
+      },
+      {
+        "title": "Frameworks & Runtimes",
+        "items": [
+          {
+            "icon": "brand:laravel",
+            "label": "Laravel"
+          },
+          {
+            "icon": "brand:flutter",
+            "label": "Flutter"
+          },
+          {
+            "icon": "brand:astro",
+            "label": "Astro"
+          },
+          {
+            "icon": "brand:bun",
+            "label": "Bun"
+          },
+          {
+            "icon": "brand:tailwindcss",
+            "label": "Tailwind CSS"
+          },
+          {
+            "icon": "brand:bootstrap",
+            "label": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "Databases & Cloud",
+        "items": [
+          {
+            "icon": "brand:postgresql",
+            "label": "PostgreSQL"
+          },
+          {
+            "icon": "brand:mysql",
+            "label": "MySQL"
+          },
+          {
+            "icon": "brand:firebase",
+            "label": "Firebase"
+          },
+          {
+            "icon": "brand:cloudflare",
+            "label": "Cloudflare"
+          },
+          {
+            "icon": "brand:googlecloud",
+            "label": "Google Cloud Platform"
+          }
+        ]
+      },
+      {
+        "title": "Tools, OS & Other",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:github",
+            "label": "Github"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:archlinux",
+            "label": "Arch Linux"
+          },
+          {
+            "icon": "brand:wordpress",
+            "label": "Wordpress"
+          },
+          {
+            "icon": "brand:godotengine",
+            "label": "Godot"
+          },
+          {
+            "icon": "brand:npm",
+            "label": "NPM"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "Portfolio",
+      "automitsubishijakarta",
+      "warkop-sute",
+      "MEMORY-CARD-GAME"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "mail",
+        "url": "sukamcdev@gmail.com"
+      },
+      {
+        "icon": "link_2",
+        "url": "https://linkedin.com/in/FabianRizkyPratama"
+      },
+      {
+        "icon": "brand:instagram",
+        "url": "https://instagram.com/sukamcd.dev"
+      }
+    ],
+    "variant": "chip",
+    "fill": "outlined",
+    "card": true,
+    "shape": "soft"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://sukamcd.tech",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}

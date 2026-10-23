@@ -1,90 +1,23 @@
 <div align="center">
 
-  <!-- Header Banner (Panoramic width matching footer) -->
-  <img src="assets/hiura-banner.jpg" width="100%" alt="Fabian Rizky Pratama" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m SukaMCD"></picture>
 
-  <h1>Fabian Rizky Pratama</h1>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="14.415%" alt=""></picture><a href="sukamcdev@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="31.171%" alt="mail"></picture></a><a href="https://linkedin.com/in/FabianRizkyPratama"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="21.159%" alt="link_2"></picture></a><a href="https://instagram.com/sukamcd.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="18.836%" alt="instagram"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="14.415%" alt=""></picture>
 
-  <!-- Typing Subtitle -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Development+Student;Backend+Architect+%26+API+Craftsman;Laravel+11+%7C+PostgreSQL+%7C+Go;Deterministic+Execution+Over+Guesswork&center=true&width=550&height=36&color=0284C7&vCenter=true&pause=1200&size=18&font=JetBrains+Mono" alt="Typing SVG" />
-  </p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-  <!-- Status Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Status-Operational-10B981?style=flat&logo=statuspage&logoColor=white&labelColor=161B22" alt="Status" />
-    <img src="https://img.shields.io/badge/Role-Backend%20Engineer-0284C7?style=flat&logo=terminal&logoColor=white&labelColor=161B22" alt="Role" />
-    <img src="https://img.shields.io/badge/Dev-Istana%20Komputer-6366F1?style=flat&logo=buffer&logoColor=white&labelColor=161B22" alt="Istana Komputer" />
-    <img src="https://komarev.com/ghpvc/?username=SukaMCD&label=Profile%20Views&color=0284C7&style=flat" alt="Views" />
-  </p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-</div>
+<a href="https://github.com/SukaMCD/Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-portfolio-dark.svg"><img src="assets/project-portfolio-light.svg" width="49%" alt="Portfolio"></picture></a>&nbsp;<a href="https://github.com/SukaMCD/automitsubishijakarta"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-automitsubishijakarta-dark.svg"><img src="assets/project-automitsubishijakarta-light.svg" width="49%" alt="automitsubishijakarta"></picture></a>
 
----
+<a href="https://github.com/SukaMCD/warkop-sute"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-warkop-sute-dark.svg"><img src="assets/project-warkop-sute-light.svg" width="49%" alt="warkop-sute"></picture></a>&nbsp;<a href="https://github.com/SukaMCD/MEMORY-CARD-GAME"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-memory-card-game-dark.svg"><img src="assets/project-memory-card-game-light.svg" width="49%" alt="MEMORY-CARD-GAME"></picture></a>
 
-### About Me
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-- **Currently studying:** Backend Development & Software Engineering
-- **Focus:** Backend Architecture, High-Performance RESTful APIs & Data Systems
-- **Learning & Core Stack:** Laravel, PostgreSQL, Go, Flutter, ElysiaJS
-- **Affiliation:** Student at SMK Budi Luhur & Developer at Istana Komputer (PT ISKOM SARANA NUSANTARA)
-- **Location:** Jakarta, Indonesia
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-### Tech Stack
+<a href="https://sukamcd.tech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/SukaMCD?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,astro,bootstrap,bun,cloudflare,css,dart,figma,firebase,flutter,gcp,git,github,go,godot,html,javascript,laravel,mysql,npm,php,postgres,powershell,tailwindcss,typescript,wordpress&perline=13" alt="Tech Stack" />
-  </a>
-</div>
-
----
-
-### GitHub Telemetry
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SukaMCD&bg_color=1C1C21&color=0284C7&line=0284C7&point=E2DFD2&area=true&area_color=0284C720&hide_border=true&custom_title=Fabian's%20Activity%20Graph&radius=8" width="95%" alt="Activity Graph" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SukaMCD&theme=dark&background=1C1C21&stroke=1C1C21&ring=0284C7&fire=0284C7&currStreakNum=E2DFD2&sideNums=E2DFD2&currStreakLabel=0284C7&sideLabels=888888&dates=888888&hide_border=true&border_radius=8" width="70%" alt="Streak Stats" />
-</div>
-
----
-
-### Connect & Support
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-sukamcdev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukamcdev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FabianRizkyPratama-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/FabianRizkyPratama)
-[![Discord](https://img.shields.io/badge/Discord-SukaMCD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/815473346741010453)
-[![Instagram](https://img.shields.io/badge/Instagram-%40sukamcd.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sukamcd.dev)
-
-<br/>
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sukamcd?country.x=ID&locale.x=id_ID)
-[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/SukaMCD)
-
-</div>
-
----
-
-### Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SukaMCD/SukaMCD/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SukaMCD/SukaMCD/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake animation" src="https://raw.githubusercontent.com/SukaMCD/SukaMCD/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-
-  <br/><br/>
-
-  <!-- Clickable Terminal Footer directing to sukamcd.tech -->
-  <a href="https://sukamcd.tech" target="_blank" rel="noreferrer">
-    <img src="assets/footer.svg" width="100%" alt="Terminal Footer" />
-  </a>
 </div>
