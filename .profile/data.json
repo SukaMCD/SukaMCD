@@ -1,0 +1,500 @@
+{
+ "key": "1f78b962",
+ "stars": 4,
+ "contributions": 1523,
+ "repos": 32,
+ "followers": 5,
+ "languages": [
+  [
+   "JavaScript",
+   2865815
+  ],
+  [
+   "PHP",
+   2509475
+  ],
+  [
+   "TypeScript",
+   1591021
+  ],
+  [
+   "Blade",
+   1320375
+  ],
+  [
+   "HTML",
+   1051886
+  ],
+  [
+   "CSS",
+   871125
+  ],
+  [
+   "SCSS",
+   697158
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 7,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 23,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 15,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 24,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 12,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 39,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 9,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 23,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 22
+ },
+ "pins": [
+  {
+   "name": "Kedai-Cendana",
+   "url": "https://github.com/SukaMCD/Kedai-Cendana",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Blade",
+   "topics": [
+    "emailjs",
+    "filament",
+    "firebase",
+    "google-api",
+    "kreait",
+    "laravel",
+    "mysql",
+    "php",
+    "socialite",
+    "xendit-payment-gateway"
+   ]
+  },
+  {
+   "name": "Portfolio",
+   "url": "https://github.com/SukaMCD/Portfolio",
+   "text": "Portfolio website pribadi untuk menampilkan proyek, blog, dan informasi tentang Fabian Rizky Pratama. Website ini dibangun dengan desain modern, interaktif, dan responsif.",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "McdBash",
+   "url": "https://github.com/SukaMCD/McdBash",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "My-ISN",
+   "url": "https://github.com/My-ISN/My-ISN",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Dart",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "Kedai-Cendana",
+   "url": "https://github.com/SukaMCD/Kedai-Cendana",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Blade",
+   "topics": [
+    "emailjs",
+    "filament",
+    "firebase",
+    "google-api",
+    "kreait",
+    "laravel",
+    "mysql",
+    "php",
+    "socialite",
+    "xendit-payment-gateway"
+   ]
+  },
+  {
+   "name": "SukaMCD",
+   "url": "https://github.com/SukaMCD/SukaMCD",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "lost-formula",
+   "url": "https://github.com/SukaMCD/lost-formula",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "GDScript",
+   "topics": []
+  },
+  {
+   "name": "Portfolio",
+   "url": "https://github.com/SukaMCD/Portfolio",
+   "text": "Portfolio website pribadi untuk menampilkan proyek, blog, dan informasi tentang Fabian Rizky Pratama. Website ini dibangun dengan desain modern, interaktif, dan responsif.",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "warkop-sute",
+   "url": "https://github.com/SukaMCD/warkop-sute",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "automitsubishijakarta",
+   "url": "https://github.com/SukaMCD/automitsubishijakarta",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Astro",
+   "topics": []
+  },
+  {
+   "name": "MEMORY-CARD-GAME",
+   "url": "https://github.com/SukaMCD/MEMORY-CARD-GAME",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Dart",
+   "topics": []
+  },
+  {
+   "name": "PTS",
+   "url": "https://github.com/SukaMCD/PTS",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "PHP",
+   "topics": []
+  },
+  {
+   "name": "ITTC",
+   "url": "https://github.com/SukaMCD/ITTC",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "SuperApp",
+   "url": "https://github.com/SukaMCD/SuperApp",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "PHP",
+   "topics": []
+  },
+  {
+   "name": "ekskul",
+   "url": "https://github.com/SukaMCD/ekskul",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "traveloca-clone-app",
+   "url": "https://github.com/SukaMCD/traveloca-clone-app",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Dart",
+   "topics": []
+  },
+  {
+   "name": "belajar-flutter",
+   "url": "https://github.com/SukaMCD/belajar-flutter",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Dart",
+   "topics": []
+  },
+  {
+   "name": "Citizen-Guard",
+   "url": "https://github.com/SukaMCD/Citizen-Guard",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Blade",
+   "topics": []
+  },
+  {
+   "name": "Agrinusa",
+   "url": "https://github.com/SukaMCD/Agrinusa",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Amikom-Project",
+   "url": "https://github.com/SukaMCD/Amikom-Project",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Blade",
+   "topics": []
+  },
+  {
+   "name": "McdBash",
+   "url": "https://github.com/SukaMCD/McdBash",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "iot",
+   "url": "https://github.com/SukaMCD/iot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Blade",
+   "topics": []
+  },
+  {
+   "name": "login",
+   "url": "https://github.com/SukaMCD/login",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Blade",
+   "topics": []
+  },
+  {
+   "name": "EchoShell",
+   "url": "https://github.com/SukaMCD/EchoShell",
+   "text": "EchoShell is a multi-functional command-line interface (CLI) designed for professional efficiency. It integrates intelligent AI for contextual assistance and a custom command engine (CCE) for automating complex workflows. It's an essential tool for developers and administrators who want speed, customization, and intelligence in one terminal.",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "todo",
+   "url": "https://github.com/SukaMCD/todo",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Blade",
+   "topics": []
+  },
+  {
+   "name": "Dokumentasi-Laravel",
+   "url": "https://github.com/SukaMCD/Dokumentasi-Laravel",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Aplikasi-Guru",
+   "url": "https://github.com/SukaMCD/Aplikasi-Guru",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "SCSS",
+   "topics": []
+  },
+  {
+   "name": "PBO",
+   "url": "https://github.com/SukaMCD/PBO",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "ElysiaJS-RestfulAPI",
+   "url": "https://github.com/SukaMCD/ElysiaJS-RestfulAPI",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "LeaflyTea",
+   "url": "https://github.com/SukaMCD/LeaflyTea",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Project",
+   "url": "https://github.com/SukaMCD/Project",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "Reset-id",
+   "url": "https://github.com/SukaMCD/Reset-id",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "pinjam-lab",
+   "url": "https://github.com/SukaMCD/pinjam-lab",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "PHP",
+   "topics": []
+  },
+  {
+   "name": "crud-js",
+   "url": "https://github.com/SukaMCD/crud-js",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "FreeLance",
+   "url": "https://github.com/SukaMCD/FreeLance",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Crud",
+   "url": "https://github.com/SukaMCD/Crud",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "PHP",
+   "topics": []
+  }
+ ]
+}
