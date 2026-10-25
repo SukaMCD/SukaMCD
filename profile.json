@@ -185,7 +185,23 @@
       "warkop-sute",
       "MEMORY-CARD-GAME"
     ],
-    "overrides": {},
+    "overrides": {
+      "automitsubishijakarta": {
+        "text": "Official landing page & promo dealer Mitsubishi Motors Jakarta, built with Astro and Tailwind CSS.",
+        "icon": "brand:mitsubishi",
+        "shape": "clover"
+      },
+      "warkop-sute": {
+        "text": "Modern POS (Point of Sale) & operational monitoring system for Warkop Sudut Temu, built with React, TypeScript, Vite, and Capacitor/PWA.",
+        "icon": "monitoring",
+        "shape": "cookie"
+      },
+      "MEMORY-CARD-GAME": {
+        "text": "A Neo-Brutalism memory card matching game built with Flutter, featuring 3D flip animations, dynamic move limits, and 5 difficulty levels.",
+        "icon": "style",
+        "shape": "sunny"
+      }
+    },
     "empty": "No description yet.",
     "fork": "Fork"
   },
