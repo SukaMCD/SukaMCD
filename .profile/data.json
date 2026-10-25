@@ -1,5 +1,5 @@
 {
- "key": "943527d8",
+ "key": "2bd936e8",
  "stars": 4,
  "contributions": 1529,
  "repos": 32,
@@ -129,51 +129,75 @@
  },
  "pins": [
   {
-   "name": "Kedai-Cendana",
-   "url": "https://github.com/SukaMCD/Kedai-Cendana",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": "Blade",
-   "topics": [
-    "emailjs",
-    "filament",
-    "firebase",
-    "google-api",
-    "kreait",
-    "laravel",
-    "mysql",
-    "php",
-    "socialite",
-    "xendit-payment-gateway"
-   ]
-  },
-  {
    "name": "Portfolio",
    "url": "https://github.com/SukaMCD/Portfolio",
-   "text": "Portfolio website pribadi untuk menampilkan proyek, blog, dan informasi tentang Fabian Rizky Pratama. Website ini dibangun dengan desain modern, interaktif, dan responsif.",
+   "text": "Personal portfolio website showcasing projects, articles, and profile of Fabian Rizky Pratama. Built with Astro, TypeScript, and modern responsive design.",
    "fork": false,
    "stars": 1,
    "language": "TypeScript",
-   "topics": []
+   "topics": [
+    "astro",
+    "developer-portfolio",
+    "personal-website",
+    "portfolio",
+    "responsive-design",
+    "tailwindcss",
+    "typescript",
+    "web-development"
+   ]
   },
   {
-   "name": "McdBash",
-   "url": "https://github.com/SukaMCD/McdBash",
-   "text": "",
+   "name": "automitsubishijakarta",
+   "url": "https://github.com/SukaMCD/automitsubishijakarta",
+   "text": "Official landing page & promo dealer Mitsubishi Motors Jakarta, built with Astro and Tailwind CSS.",
    "fork": false,
    "stars": 0,
-   "language": "Shell",
-   "topics": []
+   "language": "Astro",
+   "topics": [
+    "astro",
+    "landing-page",
+    "mitsubishi",
+    "tailwindcss",
+    "mitsubishi-motors"
+   ]
   },
   {
-   "name": "My-ISN",
-   "url": "https://github.com/My-ISN/My-ISN",
-   "text": "",
+   "name": "warkop-sute",
+   "url": "https://github.com/SukaMCD/warkop-sute",
+   "text": "Modern POS (Point of Sale) & operational monitoring system for Warkop Sudut Temu, built with React, TypeScript, Vite, and Capacitor/PWA.",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": [
+    "android",
+    "capacitor",
+    "cashier-system",
+    "management-system",
+    "point-of-sale",
+    "pos",
+    "pwa",
+    "react",
+    "typescript",
+    "vite"
+   ]
+  },
+  {
+   "name": "MEMORY-CARD-GAME",
+   "url": "https://github.com/SukaMCD/MEMORY-CARD-GAME",
+   "text": "A Neo-Brutalism memory card matching game built with Flutter, featuring 3D flip animations, dynamic move limits, and 5 difficulty levels.",
    "fork": false,
    "stars": 0,
    "language": "Dart",
-   "topics": []
+   "topics": [
+    "card-game",
+    "dart",
+    "flutter",
+    "flutter-game",
+    "memory-game",
+    "mobile-game",
+    "neobrutalism",
+    "speed-code"
+   ]
   }
  ],
  "all": [
@@ -218,38 +242,73 @@
   {
    "name": "Portfolio",
    "url": "https://github.com/SukaMCD/Portfolio",
-   "text": "Portfolio website pribadi untuk menampilkan proyek, blog, dan informasi tentang Fabian Rizky Pratama. Website ini dibangun dengan desain modern, interaktif, dan responsif.",
+   "text": "Personal portfolio website showcasing projects, articles, and profile of Fabian Rizky Pratama. Built with Astro, TypeScript, and modern responsive design.",
    "fork": false,
    "stars": 1,
    "language": "TypeScript",
-   "topics": []
+   "topics": [
+    "astro",
+    "developer-portfolio",
+    "personal-website",
+    "portfolio",
+    "responsive-design",
+    "tailwindcss",
+    "typescript",
+    "web-development"
+   ]
   },
   {
    "name": "warkop-sute",
    "url": "https://github.com/SukaMCD/warkop-sute",
-   "text": "",
+   "text": "Modern POS (Point of Sale) & operational monitoring system for Warkop Sudut Temu, built with React, TypeScript, Vite, and Capacitor/PWA.",
    "fork": false,
    "stars": 0,
    "language": "TypeScript",
-   "topics": []
+   "topics": [
+    "android",
+    "capacitor",
+    "cashier-system",
+    "management-system",
+    "point-of-sale",
+    "pos",
+    "pwa",
+    "react",
+    "typescript",
+    "vite"
+   ]
   },
   {
    "name": "automitsubishijakarta",
    "url": "https://github.com/SukaMCD/automitsubishijakarta",
-   "text": "",
+   "text": "Official landing page & promo dealer Mitsubishi Motors Jakarta, built with Astro and Tailwind CSS.",
    "fork": false,
    "stars": 0,
    "language": "Astro",
-   "topics": []
+   "topics": [
+    "astro",
+    "landing-page",
+    "mitsubishi",
+    "tailwindcss",
+    "mitsubishi-motors"
+   ]
   },
   {
    "name": "MEMORY-CARD-GAME",
    "url": "https://github.com/SukaMCD/MEMORY-CARD-GAME",
-   "text": "",
+   "text": "A Neo-Brutalism memory card matching game built with Flutter, featuring 3D flip animations, dynamic move limits, and 5 difficulty levels.",
    "fork": false,
    "stars": 0,
    "language": "Dart",
-   "topics": []
+   "topics": [
+    "card-game",
+    "dart",
+    "flutter",
+    "flutter-game",
+    "memory-game",
+    "mobile-game",
+    "neobrutalism",
+    "speed-code"
+   ]
   },
   {
    "name": "PTS",
