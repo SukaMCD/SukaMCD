@@ -1,14 +1,14 @@
 name: Expressive Profile
 
 on:
-  schedule:
-    - cron: "17 * * * *"
   workflow_dispatch:
-  push:
-    paths:
-      - profile.json
-      - .profile/icons.json
-      - .github/workflows/expressive-profile.yml
+  # schedule:
+  #   - cron: "17 * * * *"
+  # push:
+  #   paths:
+  #     - profile.json
+  #     - .profile/icons.json
+  #     - .github/workflows/expressive-profile.yml
 
 permissions:
   contents: write

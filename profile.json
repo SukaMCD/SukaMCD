@@ -11,15 +11,14 @@
     "socials",
     "projects",
     "stack",
+    "stats",
     "wave",
     "buttons",
     "about",
-    "stats",
     "streak"
   ],
   "hidden": [
     "about",
-    "stats",
     "streak"
   ],
   "hero": {
@@ -226,7 +225,7 @@
     "items": [
       {
         "icon": "mail",
-        "url": "sukamcdev@gmail.com"
+        "url": "mailto:dev@sukamcd.tech"
       },
       {
         "icon": "link_2",
