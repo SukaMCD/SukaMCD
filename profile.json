@@ -225,7 +225,7 @@
     "items": [
       {
         "icon": "mail",
-        "url": "mailto:dev@sukamcd.tech"
+        "url": "dev@sukamcd.tech"
       },
       {
         "icon": "link_2",
@@ -233,13 +233,12 @@
       },
       {
         "icon": "brand:instagram",
-        "url": "https://instagram.com/sukamcd.dev"
+        "url": "https://instagram.com/not.vkqldks"
       }
     ],
     "variant": "chip",
     "fill": "outlined",
-    "card": true,
-    "shape": "soft"
+    "card": true
   },
   "buttons": {
     "items": [
